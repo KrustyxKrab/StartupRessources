@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "3b22c9c73ffcfab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8854b5d86060bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f104d526499d436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EarlyTractionScoreboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EarlyTractionScoreboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27015fa5759e79f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d95fbf12029a963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14a04092961bea87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f78db97fcbc451a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c3b37aff3bf70f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b16670e157844b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d86a2c50f302516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbbd6d3e68c33343",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SequoiaFramework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SequoiaFramework"
+            }
+          },
+          {
+            "id": "80ec34cc488d810e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SequoiaFramework.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SequoiaFramework"
+            }
+          },
+          {
+            "id": "8041303fa6bf412a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87612a60d9e36f71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SequoiaFramework.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SequoiaFramework"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14a04092961bea87",
+  "lastOpenFiles": [
+    "README.md",
+    "Materials-to_publish/product-market-fit.md",
+    "Materials-to_publish/pitch-deck.md",
+    "Materials-to_publish/mvp-guide.md",
+    "Materials-to_publish/lean-canvas.md",
+    "Materials-to_publish/ProjektManagementTools.md",
+    "Materials-to_publish/PraktischeTools.md",
+    "Materials-to_publish/OpenClaw.md",
+    "Materials-to_publish/NextGenAiCoding.md",
+    "Materials-to_publish/MarketingSEO.md",
+    "Materials-to_publish/FounderMarketFit.md",
+    "Materials-to_publish/FounderLektüren_Teil1.md",
+    "Materials-to_publish/FinanzenBudgetplanungen.md",
+    "Materials-to_publish/DatenablagenTools.md",
+    "Materials-to_publish/ContentCreationTools.md",
+    "Materials-to_publish/Communication.md",
+    "Materials-to_publish/CodingDevelopment.md",
+    "Materials-to_publish/BrainstormingTools.md",
+    "Materials-to_publish/Automationen.md",
+    "Materials-to_publish",
+    "POVClarityFramework.md",
+    "SequoiaFramework.md",
+    "to_publish/ProjektManagementTools.md",
+    "to_publish/PraktischeTools.md",
+    "to_publish/pitch-deck.md",
+    "to_publish/OpenClaw.md",
+    "to_publish/NextGenAiCoding.md",
+    "to_publish"
+  ]
+}
