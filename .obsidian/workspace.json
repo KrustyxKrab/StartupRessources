@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequoia Framework.md",
+                "file": "EarlyTractionScoreboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequoia Framework"
+              "title": "EarlyTractionScoreboard"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "d7bbd6cd87c00bb4",
   "lastOpenFiles": [
+    "Sequoia Framework.md",
     "POVClarityFramework.md",
     "EarlyTractionScoreboard.md",
     "ApplicationHack.md",
     "AppLaunchChecklist.md",
-    "Sequoia Framework.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
